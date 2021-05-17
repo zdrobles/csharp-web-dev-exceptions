@@ -1,5 +1,7 @@
 ﻿using System;
 
+//Book example for the Unit 2 C# program
+
 namespace TemperatureExceptions
 {
     class Program

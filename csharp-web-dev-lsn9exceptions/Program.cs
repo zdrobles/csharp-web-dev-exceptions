@@ -1,10 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 
+//Exercises for the Exceptions Chapter
+
 namespace csharp_web_dev_lsn9exceptions
 {
     class Program
     {
+        /*
         static double Divide(double x, double y)
         {
             // Write your code here!
@@ -14,7 +17,7 @@ namespace csharp_web_dev_lsn9exceptions
         {
             // Write your code here!
         }
-
+        */
 
         static void Main(string[] args)
         {
