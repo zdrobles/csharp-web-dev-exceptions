@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-web-dev-lsn9exceptions", "csharp-web-dev-lsn9exceptions\csharp-web-dev-lsn9exceptions.csproj", "{487C4423-B09D-41A7-B8CE-B3B218FA8CB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-web-dev-exceptions", "csharp-web-dev-lsn9exceptions\csharp-web-dev-exceptions.csproj", "{487C4423-B09D-41A7-B8CE-B3B218FA8CB9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureExceptions", "TemperatureExceptions\TemperatureExceptions.csproj", "{54D0743B-BE90-4785-9757-181B4BED9BBB}"
 EndProject
